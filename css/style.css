@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #f3f1f9;
+  color: #464253cb;
 }
 
 .heading_container.heading_center {
@@ -69,7 +69,7 @@ body {
 
 #navbarSupportedContent {
   width: 100%;
-  background-color: #9fb5cf;
+  background-color: #f2dfc7;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -78,14 +78,14 @@ body {
 }
 
 #navbarSupportedContent.innerpage_navbar {
-  background-color: rgb(171, 173, 201);
+  background-color:#f2dfc7;
   border-radius: 10px;
   -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.25);
           box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.25);
 }
 
 #navbarSupportedContent.innerpage_navbar .nav-item.active .nav-link {
-  background-color: #f4f5f6;
+  background-color: #c4d9ef;
 }
 
 #navbarSupportedContent .navbar-nav .nav-link {
@@ -244,7 +244,7 @@ a:focus {
 .slider_section .slider_container {
   color: #fefefe;
   background-color: #000000;
-  background-color: #7ca17f;
+  background-color: #d0a172;
   padding: 25px;
   border-radius: 0 0 15px 15px;
 }
@@ -283,7 +283,7 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #db4566;
+  background-color: #f24f73;
   color: #ffffff;
   border: 1px solid #db4566;
   border-radius: 5px;
@@ -429,7 +429,7 @@ a:focus {
 
 .saving_section .box {
   padding-top: 45px;
-  background-color: #7fd7eb;
+  background-color: #82cf3e;
   color: #ffffff;
   border-radius: 15px;
 }
@@ -748,7 +748,7 @@ a:focus {
 /* info section */
 .info_section {
   position: relative;
-  background-color: #2d2d2d;
+  background-color: #1a1910;
   color: #ffffff;
   margin: 0 45px 45px;
 }
